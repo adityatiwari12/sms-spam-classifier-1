@@ -1,8 +1,6 @@
 import streamlit as st
 import pickle
 import string
-def transform_text(text):
-
 import nltk
 from nltk.corpus import stopwords
 from nltk.stem.porter import PorterStemmer
